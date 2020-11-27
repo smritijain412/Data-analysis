@@ -13,10 +13,8 @@ RTO Data contains details of indian RTO based on registration number. We have  I
    >>> Natural Language Processsing
    
    
-   # flow of Execution 
+   # flow of Execution   
     
-    In the vision of making this assignment run we applied some technique or method here the glimpse:
-    
-    
-    
+   !(https://user-images.githubusercontent.com/61602017/100458664-279ccc80-30ea-11eb-9e29-758e05e6524e.png)
+  
    
