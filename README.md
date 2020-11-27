@@ -14,7 +14,13 @@ RTO Data contains details of indian RTO based on registration number. We have  I
    
    
    # flow of Execution   
+   
+  To make this we tried some method and technique and presenting you preview of outcomes:
     
-   !(https://user-images.githubusercontent.com/61602017/100458664-279ccc80-30ea-11eb-9e29-758e05e6524e.png)
+![1](https://user-images.githubusercontent.com/61602017/100458683-2f5c7100-30ea-11eb-8cd8-442a0be04226.png)
   
    
+![3](https://user-images.githubusercontent.com/61602017/100458664-279ccc80-30ea-11eb-9e29-758e05e6524e.png)
+
+
+ Get to know about this make it happen and need to know explict info please see source file which provide you in this repo.
